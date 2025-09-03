@@ -146,31 +146,31 @@ button{
         <form method="post" action="insert_db.php">
             <div class="user-details">
                 <div class="input-box">
-                    <span-details>Id</span-details>
+                    <span-details>ID</span-details>
                     <input type="id" name="id" placeholder="Enter Your Id" required>
                 </div>
                 <div class="input-box">
-                    <span-details>full_name</span-details>
+                    <span-details>Full_Name</span-details>
                     <input type="text" name="name" placeholder="Enter Your Name" required>
                 </div>
                 <div class="input-box">
-                    <span-details>user_name</span-details>
+                    <span-details>User_Name</span-details>
                     <input type="text" name="user_name" placeholder="Enter Your User_Name" required>
                 </div>
                 <div class="input-box">
-                    <span-details>email</span-details>
+                    <span-details>Email</span-details>
                     <input type="text" name="email" placeholder="Enter Your Mail" required>
                 </div>
                 <div class="input-box">
-                    <span-details>contact</span-details>
+                    <span-details>Contact</span-details>
                     <input type="text" name="contact" placeholder="Enter Your Contact_No " required>
                 </div>
                 <div class="input-box">
-                    <span-details>password</span-details>
+                    <span-details>Password</span-details>
                     <input type="text" name="password" placeholder="Enter Your Password " required>
                 </div>
                 <div class="input-box">
-                    <span-details>cpassword</span-details>
+                    <span-details>Confirm Password</span-details>
                     <input type="text" name="cpassword" placeholder="Confirm in Your Password " required>
                 </div>
             </div>
@@ -178,7 +178,7 @@ button{
                 <input type="radio" name="gendar" id="dot-1">
                 <input type="radio" name="gendar" id="dot-2">
                 <input type="radio" name="gendar" id="dot-3">
-                <span class="gendar-title">gendar</span>
+                <span class="gendar-title">Gendar</span>
                 <div class="category">
                     <label for="dot-1">
                         <span class="dot one"></span>
@@ -197,7 +197,7 @@ button{
             <div class="button">
                 <input type="submit" name="submit"  value="Register">
             </div>
-            <button><a href="view.php" >view</a></button>
+            <button><a href="view.php" >View</a></button>
         </form>
     </div>
 </body>
